@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xilo-zhao.github.io/forgeport-site/sitemap.xml
